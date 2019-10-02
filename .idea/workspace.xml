@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="381abfb8-aeff-472b-8cc8-1e6cc7618bb1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/temp-requirement.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-api.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/model.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/model.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-api.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/test-api.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -120,7 +114,7 @@
       <option name="presentableId" value="Default" />
       <updated>1569948819667</updated>
       <workItem from="1569948820760" duration="8779000" />
-      <workItem from="1570035385036" duration="292000" />
+      <workItem from="1570035385036" duration="1692000" />
     </task>
     <task id="LOCAL-00001" summary="Titanic Data Model with Logistic Regression">
       <created>1569950344470</created>
