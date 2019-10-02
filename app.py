@@ -11,7 +11,6 @@ app = Flask(__name__)
 # routes
 @app.route('/', methods=['POST'])
 def predict():
-    # print('predict()')
 
     # get data
     data = request.get_json(force=True)
